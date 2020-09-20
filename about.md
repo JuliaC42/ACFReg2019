@@ -14,4 +14,5 @@ The data are from an intercollegiate quiz tournament which took place at several
 
 ## Code
 
-The code for this app can be found at <link>
+The code for this app can be found at <https://github.com/JuliaC42/ACFReg2019>
+
